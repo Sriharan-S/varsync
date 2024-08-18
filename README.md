@@ -1,6 +1,6 @@
 # VarSYNC
 
-**VarysNC** is a Python package for managing user-specific variables with a web interface. It allows users to create, read, update, and delete variables and provides a straightforward API for accessing these variables in Python.
+**VarSYNC** is a Python package for managing user-specific variables with a web interface. It allows users to create, read, update, and delete variables and provides a straightforward API for accessing these variables in Python.
 
 ## Features
 
