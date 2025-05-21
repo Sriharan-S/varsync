@@ -77,13 +77,3 @@ print(variables)
 ## Contact
 
 For any questions or support, please contact [sriharan2544@gmail.com](mailto:sriharan2544@gmail.com).
-
-### Notes:
-
-- `Features`: Lists key features of your package.
-- `Installation`: Shows how to install the package.
-- `Usage`: Provides examples of how to use the package.
-- `Configuration`: Instructions to set up database credentials.
-- `Contributing`: Guidelines for contributing to the project.
-- `License`: Information about the project license.
-- `Contact`: Your contact information for support or questions.
